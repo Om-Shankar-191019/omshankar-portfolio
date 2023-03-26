@@ -68,3 +68,18 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+Flow of projects
+
+______________________
+
+create react app
+integrate tailwind css
+npm install react-icons
+import google fonts 
+configure tailwind.config for special font(great vibes)
+add assets folder in src
+components -- Navbar.jsx
+Home.jsx - side links(socialLinks.jsx)
+About.jsx
